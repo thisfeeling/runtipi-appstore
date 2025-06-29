@@ -1,0 +1,13 @@
+{
+    "name":"Nginx Proxy Manager",
+    "available":true,
+    "port":81,
+    "exposable":true,
+    "dynamic_config":true,
+    "id":"nginx-proxy-manager",
+    "description":"Manage SSL and reverse proxies via web UI",
+    "tipi_version":4,
+    "version":"2.16.3",
+    "categories":["proxy","ssl"],
+    "supported_architectures":["amd64","arm64"]
+}
